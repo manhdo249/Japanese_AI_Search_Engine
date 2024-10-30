@@ -18,7 +18,7 @@ This project is a Japanese Wiki Search Engine designed to retrieve information f
 - Step 1: create a Conda environment named your_env_name with Python version  3.8
 
 ```python
-conda create -n ${your_env_name} python= 3.11.3
+conda create -n ${your_env_name} python=3.8
 ```
 
 - Step 2: Activate the newly created environment using the following command
