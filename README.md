@@ -15,7 +15,7 @@ This project is a Japanese Wiki Search Engine designed to retrieve information f
 ![image](Assets/Architecture.jpg)
 
 ## I.  Set up environment
-- Step 1: create a Conda environment named your_env_name with Python version  3.11.3
+- Step 1: create a Conda environment named your_env_name with Python version  3.8
 
 ```python
 conda create -n ${your_env_name} python= 3.11.3
