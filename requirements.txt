@@ -1,0 +1,9 @@
+faiss-cpu
+Flask
+torch
+datasets
+sentence-transformers
+transformers
+mecab-python3
+unidic-lite
+sentencepiece
